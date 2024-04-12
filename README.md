@@ -33,7 +33,7 @@ Market basket analysis is a data mining technique used to uncover associations b
 
 9. **Visualize Results**: Visualize the results of the association rule mining process to communicate insights effectively.
 
-10. 10. **Integration with Streamlit**: Integrate the Market Basket Analysis model with Streamlit to create an interactive web application for exploring and visualizing the results. 
+10. **Integration with Streamlit**: Integrate the Market Basket Analysis model with Streamlit to create an interactive web application for exploring and visualizing the results. 
 
 
 
@@ -90,4 +90,14 @@ To start the application, navigate to the project directory and run the followin
 streamlit run app.py
 ```
 
-    
+### Output Screenshots
+
+<p align="center">
+<img src="Output Screenshots/Screenshot1.png" width="70%" height="70%" />
+</p>
+
+<p align="center">
+<img src="Output Screenshots/Screenshot2.png" width="70%" height="70%" />
+</p>
+
+
